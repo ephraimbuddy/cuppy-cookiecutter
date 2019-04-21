@@ -1,0 +1,10 @@
+# ``master`` is where development happens:
+# -e git://github.com/ephraimbuddy/cuppy.git#egg=cuppy
+
+# ``testing`` is *always* the latest non final release (alpha, beta, etc.):
+# -e git://github.com/ephraimbuddy/cuppy.git@testing#egg=cuppy
+
+# ``production`` is *always* the latest final release:
+# -e git://github.com/ephraimbuddy/cuppy.git@production#egg=kotti
+
+Cuppy
